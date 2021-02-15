@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sara991/InversionesAdonayF.git"
+    "url": "git+https://github.com/sara991/InversionesAdonay.git"
   },
   "keywords": [
     "node",
@@ -21,9 +21,9 @@
   "author": "Sara Fuentes Alas",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sara991/InversionesAdonayF/issues"
+    "url": "https://github.com/sara991/InversionesAdonay/issues"
   },
-  "homepage": "https://github.com/sara991/InversionesAdonayF#readme",
+  "homepage": "https://github.com/sara991/InversionesAdonay#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
