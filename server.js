@@ -5,7 +5,7 @@ const cors = require("cors");
 const app = express();
 
 var corsOptions = {
-  origin: "http://localhost:3307"
+  origin: "http://localhost:3308"
 };
 
 app.use(cors(corsOptions));
@@ -31,7 +31,6 @@ const PORT = process.env.PORT || 3306;
 app.listen(PORT, () => {
   console.log(`Servidor en puerto ${PORT}.`);
 });
-
 
 
 
